@@ -1,13 +1,13 @@
 ## Fail2Ban4Mosquitto: A simple setup to enable Fail2Ban for Mosquitto
 
-Filter and jail that enables, you to easily manage banning IPs on your internet facing MQTT broker.
+Filter and jail that enables you to easily manage banning IPs on your internet facing MQTT broker.
 Works well on Debian 12 and Mosquitto 2.0.11. 
 
 Notes:
 -------------
 * This is tested on Debian 12 (Bookwork) and and Mosquitto 2.0.11 but will probably work on other distros as well.
 * Have fail2ban installed (apt install fail2ban)
-* IPv6 also works with the filter
+* Filter also works with IPv6
 
 Check log compatibility:
 ------------------------
