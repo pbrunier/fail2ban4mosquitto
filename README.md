@@ -5,7 +5,7 @@ Works well on Debian 12 and Mosquitto 2.0.11.
 
 Notes:
 -------------
-* This is tested on Debian 12 (Bookwork) and and Mosquitto 2.0.11 but will probably work on other distros as well.
+* This is tested on Debian 12 (Bookworm) and and Mosquitto 2.0.11 but will probably work on other distros as well.
 * Have fail2ban installed (apt install fail2ban)
 * Filter also works with IPv6
 
